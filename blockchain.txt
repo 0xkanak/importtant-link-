@@ -1,1 +1,2 @@
 https://github.com/s0md3v/AwesomeXSS
+https://nuclei-templates.netlify.app/

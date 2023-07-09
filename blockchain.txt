@@ -1,3 +1,4 @@
 https://github.com/s0md3v/AwesomeXSS
 https://nuclei-templates.netlify.app/
 Open redirect/SSRF payload generator : https://tools.intigriti.io/redirector/
+https://husseinphp.github.io/
